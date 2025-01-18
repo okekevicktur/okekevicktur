@@ -11,7 +11,7 @@ Welcome to my little corner of GitHub! I’m **Victor Okeke**, but my friends in
 ### 🛠️ Tech Stack
 
 - **Languages**: HTML, CSS, JavaScript (I sprinkle in TypeScript when I want to make my code future-proof!).
-- **Frameworks & Libraries**: React, Next.js, and TailwindCSS – because what's better than fast, clean code and sleek design?
+- **Frameworks & Libraries**: React, Next.js, Typescript and TailwindCSS – because what's better than fast, clean code and sleek design?
 - **Tools**: VS Code (I’ve got all the plugins), Git (because every masterpiece needs version control), and Figma (where I turn design dreams into reality).
 
 ### 🌱 What I’m Learning
