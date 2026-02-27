@@ -21,7 +21,6 @@ const techStack = {
     api: ['REST', 'GraphQL (Apollo)', 'REST'],
     cms: ['Sanity', 'Hygraph'],
     tools: ['Git', 'Agile', 'Jira', 'ClickUp', 'Vite'],
-    ai: ['Vector DBs', 'RAG Systems', 'MCP Integration']
 };
 ```
 
