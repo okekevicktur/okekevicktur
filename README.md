@@ -1,40 +1,79 @@
-### 👋 Hey there! I’m Victor Okeke – But You Can Call Me **TechProvee** 🖥️🚀
+# Victor Okeke – Product Engineer (aka **TechProvee**)
 
-Welcome to my little corner of GitHub! I’m **Victor Okeke**, but my friends in the tech world know me as **TechProvee** – the guy who loves crafting seamless user experiences and writing clean, efficient code. I specialize in making the web look beautiful and perform like a well-oiled machine.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=okekevicktur.okekevicktur" />
 
-### 🚀 What I Do
+### 👨‍💻 Building digital products that matter
 
-- **Crafting Web Magic**: Whether it's building stylish interfaces or creating responsive layouts, I bring ideas to life with **HTML, CSS, and TailwindCSS**.
-- **JavaScript Ninja**: I'm fluent in **JavaScript** and love the added elegance of **TypeScript** for scaling projects.
-- **React/Next.js Enthusiast**: React makes me smile, and **Next.js** takes it to the next level! I’m all about building fast, dynamic web apps that users (and search engines) love.
+Hey there! I'm **Victor** – a Product Engineer with **5+ years** of experience transforming complex problems into elegant, performant web and desktop solutions. I've shipped across **fintech, e-commerce, public sector, mobility, and AI-driven SaaS** – always with an eye for clean code, user delight, and measurable business impact.
 
-### 🛠️ Tech Stack
+Currently leading the revamp of **Vault**, a digital tax collection platform serving Nigeria's informal sector, while mentoring the next generation of developers.
 
-- **Languages**: HTML, CSS, JavaScript (I sprinkle in TypeScript when I want to make my code future-proof!).
-- **Frameworks & Libraries**: React, Next.js, Typescript and TailwindCSS – because what's better than fast, clean code and sleek design?
-- **Tools**: VS Code (I’ve got all the plugins), Git (because every masterpiece needs version control), and Figma (where I turn design dreams into reality).
+---
 
-### 🌱 What I’m Learning
+## 🛠️ What I Build With
 
-I’m always on the lookout for the next big thing in frontend development. Right now, I’m diving deeper into:
+```javascript
+const techStack = {
+    frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'Shadcn/UI'],
+    desktop: ['.NET (C#)', 'WPF', 'MAUI', 'Electron', 'Tauri'],
+    backend: ['Node.js', 'Express', 'PostgreSQL', 'Firebase', 'Supabase'],
+    state: ['Redux', 'Zustand', 'Context API'],
+    api: ['REST', 'GraphQL (Apollo)', 'REST'],
+    cms: ['Sanity', 'Hygraph'],
+    tools: ['Git', 'Agile', 'Jira', 'ClickUp', 'Vite'],
+    ai: ['Vector DBs', 'RAG Systems', 'MCP Integration']
+};
+```
 
-- **Web Performance**: Making sure my web apps aren’t just beautiful but lightning fast.
-- **Advanced React Patterns**: Constantly refining my knowledge of hooks, state management, and component optimization.
+## 🏆 Impact Snapshot
 
-### 😎 Fun Facts About Me
+- **🚀 40% faster load times** – Optimized e-commerce platform for Ekoyibo (UK)
+- **📈 38% throughput boost** – Built JumpQ queue system integrated with QuickBooks POS
+- **🔒 78% fewer unauthorized activations** – Engineered offline-first CBT exam system for 3,000+ students
+- **📊 20% organic traffic increase** – SEO & UX improvements for fintech platform
+- **👩‍💻 100+ women developers** – Mentored through WomenpreneurNG, many now in junior roles
 
-- **CSS & I have a love-hate relationship**. Some days I feel like a CSS wizard; other days, centering a div is my Everest. But hey, who doesn’t love a good challenge?
-- I’m constantly googling _“how to fix optimize performance”_. StackOverflow is basically my second home.
-- I believe that **dark mode** is more than a trend; it's a lifestyle choice. 🌑
-- When I’m not coding, I’m probably learning about the latest web trends or perfecting my playlist for the ultimate coding session.
+---
 
-### 💬 Let’s Connect!
+## 💼 Recent Highlights
 
-Have a cool project, or just want to chat about web dev? I’m always down for a conversation about the latest in frontend or just geeking out about JavaScript.  
-Find me here:
+**🔷 Product Engineer** @ *Computmetrics Solutions* (Present)  
+Leading the revamp of Vault – digital tax collection platform for Kwara State's informal sector. Collaborating across teams on API strategy and system reliability.
 
-- **Email**: okekevickur@gmail.com
-- **Twitter**: [@techprovee](https://twitter.com/techprovee)
+**🔷 Lead Product Engineer** @ *Federal Ministry of Foreign Affairs*  
+Led a 4-person team to deliver the Ministry's new public website. Next.js, accessibility-first, stakeholder-aligned.
+
+**🔷 Product Engineer** @ *Ekoyibo (UK)*  
+Built high-performance e-commerce frontend replicating Nigeria's local market experience. Multi-vendor API integration, 40% load time reduction.
+
+**🔷 Software Engineer (Desktop)** @ *Klica Technology*  
+Engineered offline-first CBT exam system used by 3,000+ students. .NET, WPF, Firebase.
+
+---
+
+## 🎓 Currently Leveling Up
+
+- **M.Sc. Information Technology (AI)** – Miva Open University (in progress)
+- **Advanced System Design & Product Engineering**
+- **Agentic AI & Automation** – applied to real-world products
+
+---
+
+## 📫 Let's Connect & Build Something
+
+- **Portfolio**: [victorokeke.dev](https://victorokeke.dev)
+- **Email**: [okekevicktur@gmail.com](mailto:okekevicktur@gmail.com)
 - **LinkedIn**: [Victor Okeke](https://linkedin.com/in/victor-okeke)
+- **Twitter/X**: [@techprovee](https://twitter.com/techprovee)
 
-I’m excited to collaborate, learn, and create with you. Together, let’s make the web a more beautiful place, one line of code at a time. 💻✨
+---
+
+### ⚡ Fun Bits
+
+- **Dark mode is non-negotiable** 🌑 – my IDE, my browser, my life.
+- **CSS is still my frenemy** – some days I'm a wizard, other days I'm Googling "how to center a div" for the 500th time.
+- When I'm not coding, I'm curating the perfect coding playlist or diving into AI research papers.
+
+---
+
+*"Together, let's make the web a more beautiful place, one line of code at a time."* 💻✨
