@@ -15,8 +15,8 @@ Currently leading the revamp of **Vault**, a digital tax collection platform ser
 ```javascript
 const techStack = {
     frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'Shadcn/UI'],
-    desktop: ['.NET (C#)', 'WPF', 'MAUI', 'Electron', 'Tauri'],
-    backend: ['Node.js', 'Express', 'PostgreSQL', 'Firebase', 'Supabase'],
+    desktop: ['.NET (C#)', 'WPF', 'Electron'],
+    backend: ['Node.js', 'Express', 'MongoDB', 'Firebase', 'Supabase'],
     state: ['Redux', 'Zustand', 'Context API'],
     api: ['REST', 'GraphQL (Apollo)', 'REST'],
     cms: ['Sanity', 'Hygraph'],
@@ -71,7 +71,6 @@ Engineered offline-first CBT exam system used by 3,000+ students. .NET, WPF, Fir
 ### ⚡ Fun Bits
 
 - **Dark mode is non-negotiable** 🌑 – my IDE, my browser, my life.
-- **CSS is still my frenemy** – some days I'm a wizard, other days I'm Googling "how to center a div" for the 500th time.
 - When I'm not coding, I'm curating the perfect coding playlist or diving into AI research papers.
 
 ---
